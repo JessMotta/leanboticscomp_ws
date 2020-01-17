@@ -1,0 +1,8 @@
+prefix=/home/jess/learnboticscomp_ws/devel
+
+Name: gazebo_learnbotics
+Description: Description of gazebo_learnbotics
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jess/learnboticscomp_ws/devel/lib 
+Requires: 

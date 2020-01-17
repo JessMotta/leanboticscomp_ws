@@ -1,0 +1,2 @@
+gazebo_learnbotics:robot_learnbotics
+-DCATKIN_DEVEL_PREFIX=/home/jess/learnboticscomp_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jess/learnboticscomp_ws/install -G Unix Makefiles

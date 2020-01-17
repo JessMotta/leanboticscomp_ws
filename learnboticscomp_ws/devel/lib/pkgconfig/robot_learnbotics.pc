@@ -1,0 +1,8 @@
+prefix=/home/jess/learnboticscomp_ws/devel
+
+Name: robot_learnbotics
+Description: Description of robot_learnbotics
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jess/learnboticscomp_ws/devel/lib 
+Requires: 
